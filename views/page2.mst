@@ -1,0 +1,56 @@
+{{> header }}
+
+<h1><center>Disciplinas do 3º Semestre</centrer></h1>
+
+<table border="1" align="center" width="800" height="600"  >
+
+   <thead>
+   <tr>
+       
+       <th><h2>Disciplina</h2></th>
+       <th><h2>Dia da Semana</h2></th>
+       
+   </tr>
+   </thead>
+
+   <tbody>
+<tr>
+       <td> Álgebra Linear </td>
+       <td><center> Segunda-Feira - 4 aulas </center></td>
+</tr>
+
+<tr>
+       <td> Banco de Dados - Não relacional </td>
+       <td><center> Terça-Feira - 4 aulas </center></td>
+</tr>
+
+<tr>
+       <td> Inglês I </td>
+       <td><center> Terça-Feira - 2 aulas </center></td>
+</tr>
+
+<tr>
+       <td> Desenvolvimento Web III </td>
+       <td><center> Quarta-Feira - 4 aulas </center></td>
+</tr>
+
+<tr>
+       <td> Interação Humano Computador </td>
+       <td><center> Quarta-Feira - 2 aulas </center></td>
+<tr>
+
+<tr>
+       <td> Álgebra Linear </td>
+       <td><center> Quinta-Feira - 4 aulas </center></td>
+</tr>
+      
+<tr>
+       <td> Técnica de Programação II </td>
+       <td><center> Sexta-Feira - 4 aulas </center></td>
+</tr>
+      
+
+</tbody>
+</table>
+<br>
+<Strong><center><a href = "http://localhost:3000/"> VOLTAR PARA HOME </a></center></Strong>

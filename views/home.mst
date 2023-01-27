@@ -1,0 +1,12 @@
+{{> header }}
+
+<h2> Nessa atividade fiz duas grades currículares dos semestres do curso de Desenvolvimento Web2. </h2>
+<h2> Sendo que, na página 2 consta as disciplinas que teremos no 3º semestre.
+<a href = "http://localhost:3000/pagina2" target="_self"> Ir para Página 2 </a>
+</h2>
+<h2> Na página 3 contém as matérias que foram trabalhadas no 1º e 2º semestre do nosso curso
+ Desenvolvimento de Software Multiplaforma.
+<a href = "http://localhost:3000/pagina3" target="_self"> Ir para Página 3 </a>
+</h2>
+
+

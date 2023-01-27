@@ -1,0 +1,93 @@
+{{> header }}
+
+<h1><center>Disciplinas do 1º Semestre</centrer></h1>
+
+<table border="1" align="center" width="800" height="600"  >
+
+   <thead>
+   <tr>
+       <th><h2>Disciplina</h2></th>
+       <th><h2>Status</h2></th>
+   </tr>
+   </thead>
+
+   <tbody>
+<tr>
+       <td> Algoritmo e Lógica de Programação </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Modelagem de Banco de Dados </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Engenharia de Software I </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Sistema Operacionais e Redes de Computadores </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Desenvolvimento Web I </td>
+       <td> Aprovado </td>
+</tr>
+      
+<tr>
+       <td> Design Digital </td>
+       <td> Aprovado </td>
+<tr>
+   
+</tbody>
+</table>
+
+
+<h1><center>Disciplinas do 2º Semestre</centrer></h1>
+<table border="1" align="center" width="800" height="600"  >
+
+   <thead>
+   <tr>
+       <th><h2>Disciplina</h2></th>
+       <th><h2>Status</h2></th>
+   </tr>
+   </thead>
+
+   <tbody>
+   <tr>
+       <td> Banco de dados relacional </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Estrutura de Dados </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Engenharia de software II </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Técnica de Programação I </td>
+       <td> Aprovado </td>
+</tr>
+
+<tr>
+       <td> Desenvolvimento Web II </td>
+       <td> Cursando </td>
+</tr>
+       
+<tr>
+       <td> Matemática para Computador </td>
+       <td> Aprovado </td>
+<tr>
+   
+</tbody>
+</table>
+<br>
+<Strong><center><a href = "http://localhost:3000/"> VOLTAR PARA HOME </a></center></Strong>
